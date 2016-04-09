@@ -1,17 +1,16 @@
 #Create-a-server
-installation
+<h3>installation</h3>
 
   npm install
   
-<p> </p>
 
-Start the server
+
+<h3>Start the server</h3>
 
   node server.js
 
   
-<p> </p>  
-webpack track
+#webpack track
 
   webpack -w
   
